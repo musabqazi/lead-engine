@@ -1,12 +1,12 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/voice-receptionist) · [Workup Outbound](https://github.com/musabqazi/outbound-engine) · [Workup Chat](https://github.com/musabqazi/whatsapp-agent)
+**[← All systems](https://github.com/musabqazi)** · [Voice Receptionist](https://github.com/musabqazi/voice-receptionist) · [Outbound Engine](https://github.com/musabqazi/outbound-engine) · [WhatsApp Agent](https://github.com/musabqazi/whatsapp-agent)
 
-# Workup Leads — lead scraping and enrichment engine
+# Lead Engine — lead scraping and enrichment engine
 
 Give it a niche, a geography and a set of signals; it returns a verified, deduplicated, enriched
 list of companies and decision makers with a fit score and a one-paragraph brief per account,
-ready for Workup Outbound or for direct delivery. Sources prospects without depending on a
+ready for Outbound Engine or for direct delivery. Sources prospects without depending on a
 single paid data vendor.
 
 real rows from OpenStreetMap with evidence links and a deterministic fit score, no API key
@@ -16,7 +16,7 @@ needed. **Spec:** [SPEC.md](SPEC.md)
 
 ## Dashboard
 
-<img src="screenshots/01-dashboard.png" alt="Workup Leads — lead scraping and enrichment engine dashboard" width="100%"/>
+<img src="screenshots/01-dashboard.png" alt="Lead Engine — lead scraping and enrichment engine dashboard" width="100%"/>
 <sub>The discovery view: verified, deduplicated accounts with a fit score and a one-paragraph brief on each.</sub>
 
 ## The problem
@@ -52,4 +52,4 @@ respected. No login-gated scraping. Crawls cached and reused for 30 days.
 The live demo runs on **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in the demo or in this repository, and the implementation is private.
 
 ---
-<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · A <b>Workup Solutions</b> product · source private. © 2026 Musab Qazi</sub>
+<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · source private. © 2026 Musab Qazi</sub>
